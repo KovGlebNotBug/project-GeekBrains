@@ -1,1 +1,6 @@
 Hello world
+<<<<<<< HEAD
+=======
+
+The world waiting for you
+>>>>>>> parent of 5f4fe5a (some thing added in "some_document.txt")
